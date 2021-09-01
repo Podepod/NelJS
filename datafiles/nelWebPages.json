@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Home",
+        "link": "/",
+        "description": "A simple home page for this website",
+        "icon": "home.png",
+        "hidden": {
+            "home": true,
+            "nav": false
+        }
+    },
+    {
+        "title": "Firefox",
+        "link": "/firefox",
+        "description": "A homepage for a browser with links to other useful websites",
+        "icon": "firefox.png",
+        "hidden": {
+            "home": false,
+            "nav": true
+        }
+    },
+    {
+        "title": "DevLog",
+        "link": "/devlog",
+        "description": "A simple devlogs",
+        "icon": "devlog.png",
+        "hidden": {
+            "home": false,
+            "nav": false
+        }
+    },
+    {
+        "title": "Blog",
+        "link": "/blog",
+        "description": "A simple blog",
+        "icon": "blog.png",
+        "hidden": {
+            "home": false,
+            "nav": false
+        }
+    }
+]
